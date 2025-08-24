@@ -1,4 +1,4 @@
-# Kavak Travel Assistant Chatbot
+# Travel Assistant Chatbot
 
 A sophisticated conversational AI assistant for international travel planning, built with LangChain and OpenAI. This chatbot helps users find flights, get visa information, and answer travel policy questions through natural language interaction.
 
