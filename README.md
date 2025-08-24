@@ -43,7 +43,7 @@ User Query → Query Parser → Intent Classification → Tool Selection → Res
 1. **Clone the repository**:
    ```bash
    git clone <repository-url>
-   cd kavak-travel-assistant
+   cd travel-assistant
    ```
 
 2. **Create virtual environment**:
@@ -190,7 +190,7 @@ else:
 ## 📁 Project Structure
 
 ```
-kavak-travel-assistant/
+travel-assistant/
 ├── main.py                 # Main application entry point
 ├── requirements.txt        # Python dependencies
 ├── README.md              # Project documentation
